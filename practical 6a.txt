@@ -1,0 +1,4 @@
+A subsequence of a sequence
+is a palindrome if it reads the same when read from left o right or right to
+left. Design an algorithm that take a sequence X[1]..X[n] and returns the
+length of the longest subsequence which is a palindrome.
